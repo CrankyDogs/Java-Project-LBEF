@@ -1,0 +1,5 @@
+1001,Prasanna,Good,Average,yes
+1109,Janam,Very Good,Excellent ,No
+1001,Prasanna,Good,Excellent,yes
+1022,Sujan,Great,Excellent,no
+1900,Saurav Shrestha,null,Excellent,no

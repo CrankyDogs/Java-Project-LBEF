@@ -1,0 +1,8 @@
+1,Books,500
+3,CPU,40000
+4,Noodles,350
+5,GPU,1000
+6,RAM,8000
+7,Keyboard,3000
+8,Mouse,2000
+2,Curtains,2000

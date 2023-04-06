@@ -1,0 +1,6 @@
+5554,cranky,admin,Managing Staff,sujanshress@gmail.com
+1508,pj,admin,Delivery Staff,pj@gmail.com
+4444,sagar,hello,Managing Staff,sagar33@gmail.com
+1000,sudip,hello,Managing Staff,sudip33@gmail.com
+1111,suyog,hello,Managing Staff,suyog33@gmail.com
+1222,sulin,hello,Delivery Staff,sulin33@gmail.com
